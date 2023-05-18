@@ -14,3 +14,4 @@ testando primeira linha
 8-Git push da branch principal
 
 Obs: tem que fazer o pull sempre na branch principal antes de fazer um push
+
