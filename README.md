@@ -12,3 +12,5 @@ testando primeira linha
 6-Git pull
 7- Mergiar(Unir) o código da branch temporário com a branch principal(depois de testar)
 8-Git push da branch principal
+
+Obs: tem que fazer o pull sempre na branch principal antes de fazer um push
